@@ -1,0 +1,8 @@
+20 février :
+
+Fait :
+premiers tests de l'algo effectué, je me base désormais sur un systeme de score par équipe par rapport à une autre
+
+
+A faire:
+Etre plus précis sur l'algo

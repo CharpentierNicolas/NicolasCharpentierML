@@ -1,0 +1,11 @@
+10 février :
+
+Fait :
+Premières analyses effectués, changement de point de vue par rapport aux prédictions : prédire les résultats des matchs et non du vainqueur du championnat
+
+
+A faire:
+Continuer les analyses et trouver une manière d'évaluer une équipe par rapport à une autre
+
+Problemes:
+Pas les mêmes équipes chaques saison, trouver le meilleur moyen pour avoir le plus de données et qu'elles soient les plus pertinentes possibles

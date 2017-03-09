@@ -1,0 +1,11 @@
+30 janvier :
+
+Fait :
+Import des données, premières visualisations et premiers tests
+
+
+A faire:
+Effectuer les premières analyses
+
+Problemes:
+Encore hésitant sur les types de prédictions du projet : Problèmes des équipes qui montent/descendent
